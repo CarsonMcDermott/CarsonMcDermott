@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carson McDermott</h1>
-<h3 align="center">A determined ML/Security developer from Washington</h3>
+<h1 align="center">Hi! I'm Carson McDermott!</h1>
+<h3 align="center">A prospecting ML/Security developer from Washington</h3>
 
 - 🔭 I’m currently working on [Machine Learning Tutorials](https://github.com/CarsonMcDermott/ML-Fruit-Classification)
 
